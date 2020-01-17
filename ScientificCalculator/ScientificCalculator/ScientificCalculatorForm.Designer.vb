@@ -260,7 +260,6 @@ Partial Class Calculator
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(85, 44)
         Me.Button6.TabIndex = 6
-        Me.Button6.Text = "x²"
         Me.Button6.UseVisualStyleBackColor = False
         '
         'Button13
