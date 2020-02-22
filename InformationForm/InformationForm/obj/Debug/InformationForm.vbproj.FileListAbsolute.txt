@@ -1,0 +1,14 @@
+C:\Users\G\source\repos\InformationForm\InformationForm\bin\Debug\InformationForm.exe.config
+C:\Users\G\source\repos\InformationForm\InformationForm\bin\Debug\InformationForm.exe
+C:\Users\G\source\repos\InformationForm\InformationForm\bin\Debug\InformationForm.pdb
+C:\Users\G\source\repos\InformationForm\InformationForm\bin\Debug\InformationForm.xml
+C:\Users\G\source\repos\InformationForm\InformationForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\G\source\repos\InformationForm\InformationForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\G\source\repos\InformationForm\InformationForm\obj\Debug\InformationForm.vbprojAssemblyReference.cache
+C:\Users\G\source\repos\InformationForm\InformationForm\obj\Debug\InformationForm.Form1.resources
+C:\Users\G\source\repos\InformationForm\InformationForm\obj\Debug\InformationForm.Resources.resources
+C:\Users\G\source\repos\InformationForm\InformationForm\obj\Debug\InformationForm.vbproj.GenerateResource.cache
+C:\Users\G\source\repos\InformationForm\InformationForm\obj\Debug\InformationForm.vbproj.CopyComplete
+C:\Users\G\source\repos\InformationForm\InformationForm\obj\Debug\InformationForm.exe
+C:\Users\G\source\repos\InformationForm\InformationForm\obj\Debug\InformationForm.xml
+C:\Users\G\source\repos\InformationForm\InformationForm\obj\Debug\InformationForm.pdb
